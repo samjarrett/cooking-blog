@@ -1,0 +1,8 @@
+# Site settings
+title: Sam's Kitchen
+email: sam@samjarrett.com.au
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://mykitchen.samjarrett.com.au" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown

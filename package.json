@@ -1,0 +1,22 @@
+{
+	"name": "fundrazy",
+	"preferGlobal": false,
+	"version": "1.0.0",
+	"devDependencies": {
+		"bower": "*",
+		"uglify-js": "*",
+		"uglifycss": "*",
+		"node-sass": "*",
+		"autoprefixer": "~5.1.1"
+	},
+	"engines": {
+		"node": ">=0.6"
+	},
+	"scripts": {
+		"postinstall": "bower install",
+		"postupdate": "bower update",
+		"bower-update": "bower update",
+		"bower-install": "bower install"
+	},
+	"prefix": "app/Resources"
+}

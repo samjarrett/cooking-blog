@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div class="home">
+
+    <h1 class="page-heading">Posts</h1>
+
+    {% for post in site.posts %}
+        {% include post.html %}
+    {% endfor %}
+
+
+</div>

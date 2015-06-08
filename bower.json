@@ -1,0 +1,6 @@
+{
+	"name": "cooking-blog",
+	"dependencies": {
+		"bootstrap-sass-twbs": "~3.3.4"
+	}
+}
