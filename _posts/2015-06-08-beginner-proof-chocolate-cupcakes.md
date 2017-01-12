@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beginner-proof Chocolate Cupcakes"
-date:   2015-06-08 15:00:00
+date:   2015-06-08
 categories: baking
 ---
 
