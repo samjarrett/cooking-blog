@@ -1,13 +1,6 @@
----
-layout: post
-title:  "Chai tea cupcakes"
-date:   2015-06-21
-categories: baking
----
-
 Recently, my partner suggested that we try making a chai tea cupcake. After toying with a couple of recipes online to varied success, I decided to try my own take on the cupcake. And... it worked!
 
-![Delicious cupcakes]({{ site.url }}/img/chai.jpg)
+![Delicious cupcakes](/recipes/img/chai.jpg)
 
 ### Yield
 
@@ -47,6 +40,6 @@ Similarly to my [chocolate cupcake recipe]({% post_url 2015-06-08-beginner-proof
 
 1. **Cream-cheese frosting**
 
-	For an amazing complementary frosting, mix 1/2 stick of cream cheese (philly, of course), 1/2 stick of butter with 1 bag (500 grams) pure icing sugar until completely mixed. When mixed, add 2-3 tablespoons of lemon juice until the mixture has a slight lemon tangy taste. 
-	
+	For an amazing complementary frosting, mix 1/2 stick of cream cheese (philly, of course), 1/2 stick of butter with 1 bag (500 grams) pure icing sugar until completely mixed. When mixed, add 2-3 tablespoons of lemon juice until the mixture has a slight lemon tangy taste.
+
 	Pipe generously on top of cool cupcakes, and sprinkle with cinnamon sugar to finish.

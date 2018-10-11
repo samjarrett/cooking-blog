@@ -1,10 +1,3 @@
----
-layout: post
-title:  "Magnolia Bakery's Banana Cupcakes"
-date:   2015-12-22
-categories: baking
----
-
 ### Yield
 
 This batch makes around 12 cupcakes.
@@ -49,4 +42,3 @@ This batch makes around 12 cupcakes.
 1. Melt chocolate on a double-pan. Let cool for 5-15 mins - until lukewarm.
 2. Using a mixer, beat cream cheese and butter until smooth, approx. 3 mins.
 3. Add melted chocolate, beating well
-

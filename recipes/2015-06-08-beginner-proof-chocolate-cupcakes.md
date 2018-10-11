@@ -1,10 +1,3 @@
----
-layout: post
-title:  "Beginner-proof Chocolate Cupcakes"
-date:   2015-06-08
-categories: baking
----
-
 Here's my favourite chocolate (cup)cake recipe. It's super resilient, and always produces amazingly delicious results.
 
 ### Yield
